@@ -17,7 +17,7 @@
 
 Chức năng cơ bản của `web server` là lưu trữ file thông tin và truyền dữ liệu tới các `web client` thông qua giao thức HTTP để người dùng có thể truy cập vào những website mà được cấu hình ở `web server`.  
 
-Chúng ta chỉ cần cài đặt một phần mềm `Web Server Software` nào đó lên một máy tính bất kỳ là có thể biến nó trở thành một `Web server` khi được kết nối Internet. Những `web server` thực tế thường được sử dụng hiện nay để đáp ứng nhu cầu của người dùng sẽ phải hoạt động 24/24, nhờ đó ta có thể truy cập một trang web trên một máy tính bất kỳ ở trên mạng ở mọi lúc.  
+Chúng ta chỉ cần cài đặt một phần mềm `Web Server Software` nào đó lên một máy tính bất kỳ là có thể biến nó trở thành một `Web server` khi được kết nối Internet. Những `web server` thực tế thường được sử dụng hiện nay để đáp ứng nhu cầu của người dùng sẽ phải hoạt động 24/24, nhờ đó ta có thể truy cập một trang web trên một máy tính bất kỳ ở trên mạng ở mọi thời điểm.  
 
 ## Các loại web server thông dụng hiện nay  
 
